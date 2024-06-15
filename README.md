@@ -7,22 +7,22 @@ Web-based content analysis tasks, such as labeling toxicity, misinformation, or 
 
 ## To cite:
 
-@inproceedings{10.1145/3614419.3644028,
-author = {Almuzaini, Abdulaziz A. and Pennock, David M. and Singh, Vivek K.},
-title = {Accuracy and Fairness for Web-Based Content Analysis under Temporal Shifts and Delayed Labeling},
-year = {2024},
-isbn = {9798400703348},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3614419.3644028},
-doi = {10.1145/3614419.3644028},
-booktitle = {Proceedings of the 16th ACM Web Science Conference},
-pages = {268–278},
-numpages = {11},
-keywords = {algorithmic fairness, continual learning, distribution shifts, domain adaptation, temporal shifts},
-location = {<conf-loc>, <city>Stuttgart</city>, <country>Germany</country>, </conf-loc>},
-series = {WEBSCI '24}
-}
+> @inproceedings{10.1145/3614419.3644028,
+  author = {Almuzaini, Abdulaziz A. and Pennock, David M. and Singh, Vivek K.},
+  title = {Accuracy and Fairness for Web-Based Content Analysis under Temporal Shifts and Delayed Labeling},
+  year = {2024},
+  isbn = {9798400703348},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3614419.3644028},
+  doi = {10.1145/3614419.3644028},
+  booktitle = {Proceedings of the 16th ACM Web Science Conference},
+  pages = {268–278},
+  numpages = {11},
+  keywords = {algorithmic fairness, continual learning, distribution shifts, domain adaptation, temporal shifts},
+  location = {<conf-loc>, <city>Stuttgart</city>, <country>Germany</country>, </conf-loc>},
+  series = {WEBSCI '24}
+  }
 
 # Requirements
 
